@@ -539,7 +539,15 @@
         }
       }
     },
-        {
+	{
+            "name":"NT动漫(Web)",
+            "pic":"http://www.ntdm8.com/template/ntyou/image/logo.png",
+            "ads":"",
+            "webUrl":"http://www.ntdm8.com/type/riben.html",
+            "webOpen":true,
+            "click":true
+        },
+	{
             "name":"西瓜视频(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "ads":"",
